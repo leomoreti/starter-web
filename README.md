@@ -19,3 +19,5 @@ This is the deployment section
 --- content for rebasing example
 
 --- content for stashing example - update 2
+
+-- content for branchs comparison
